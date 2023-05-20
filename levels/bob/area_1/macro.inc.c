@@ -1,0 +1,14 @@
+const MacroObject bob_area_1_macro_objs[] = {
+	MACRO_OBJECT_WITH_BEH_PARAM(macro_red_coin, 0, -1737, 194, 1604, 0x00000000),
+	MACRO_OBJECT_WITH_BEH_PARAM(macro_red_coin, 0, 483, 1248, -1655, 0x00000000),
+	MACRO_OBJECT_WITH_BEH_PARAM(macro_red_coin, 0, -801, 1548, -1423, 0x00000000),
+	MACRO_OBJECT_WITH_BEH_PARAM(macro_red_coin, 0, -1778, 1580, -1417, 0x00000000),
+	MACRO_OBJECT_WITH_BEH_PARAM(macro_red_coin, 0, 209, 175, 836, 0x00000000),
+	MACRO_OBJECT_WITH_BEH_PARAM(macro_red_coin, 0, -269, 172, 786, 0x00000000),
+	MACRO_OBJECT_WITH_BEH_PARAM(macro_red_coin, 0, 212, 190, 1217, 0x00000000),
+	MACRO_OBJECT_WITH_BEH_PARAM(macro_red_coin, 0, -274, 176, 1215, 0x00000000),
+	MACRO_OBJECT_WITH_BEH_PARAM(macro_goomba_triplet_spawner, 0, 28, 139, 1030, 0x00000000),
+	MACRO_OBJECT_WITH_BEH_PARAM(macro_goomba_triplet_spawner, 0, 1814, 1058, -1474, 0x00000000),
+	MACRO_OBJECT_END(),
+};
+
